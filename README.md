@@ -1,7 +1,6 @@
 # Rodrigo Silva
 
-**CIO | IT & Digital Product Director | AI & Data Leader | Advisory Board Member**  
-**Executivo de Tecnologia, Advisor e Community Builder**
+**CIO | IT & Digital Product Director | AI & Data Leader | Advisory Board Member**
 
 Atuo na interseção entre estratégia, dados, inteligência artificial e produtos digitais, com foco em transformar tecnologia em valor real para o negócio: estratégia, execução, governança e adoção.
 
@@ -14,7 +13,7 @@ Este espaço reúne projetos, protótipos e provas de conceito que demonstram co
 - **Cultura de IA, agentes e automações:** adoção estruturada de IA nas organizações
 - **Dados e BI:** análises que sustentam a tomada de decisão
 - **Produtos digitais e internos:** gestão com visão de produto, métricas e evolução contínua
-- **Comunidades:** CIOs, CTOs, Claude, Cursor e Lovable
+- **Comunidades:** CIOs, CTOs, Claude, Cursor, Lovable, n8n, Resend e ElevenLabs
 
 ---
 
