@@ -24,6 +24,7 @@ Este espaço reúne projetos, protótipos e provas de conceito que demonstram co
 ![TypeScript](https://img.shields.io/badge/TypeScript-1F2937?style=flat-square&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1F2937?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-1F2937?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-1F2937?style=flat-square&logo=css&logoColor=663399)
 ![Swift](https://img.shields.io/badge/Swift-1F2937?style=flat-square&logo=swift&logoColor=FA7343)
 
 **IA e desenvolvimento acelerado**
