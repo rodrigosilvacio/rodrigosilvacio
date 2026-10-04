@@ -40,7 +40,7 @@ Este espaço reúne projetos, protótipos e provas de conceito que demonstram co
 ![Python](https://img.shields.io/badge/Python-1F2937?style=flat-square&logo=python&logoColor=3776AB)
 ![SQL](https://img.shields.io/badge/SQL-1F2937?style=flat-square&logo=postgresql&logoColor=4479A1)
 ![n8n](https://img.shields.io/badge/n8n-1F2937?style=flat-square&logo=n8n&logoColor=EA4B71)
-![Power BI](https://img.shields.io/badge/Power_BI-1F2937?style=flat-square&logo=powerbi&logoColor=F2C811)
+![Power BI](https://img.shields.io/badge/Power_BI-1F2937?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHJlY3QgeD0iMyIgeT0iMTIiIHdpZHRoPSI1IiBoZWlnaHQ9IjEwIiByeD0iMS4yIiBmaWxsPSIjRThCMTBBIi8+PHJlY3QgeD0iOS41IiB5PSI3IiB3aWR0aD0iNSIgaGVpZ2h0PSIxNSIgcng9IjEuMiIgZmlsbD0iI0YyQzgxMSIvPjxyZWN0IHg9IjE2IiB5PSIyIiB3aWR0aD0iNSIgaGVpZ2h0PSIyMCIgcng9IjEuMiIgZmlsbD0iI0Y5REQ1QSIvPjwvc3ZnPg==)
 ![Figma](https://img.shields.io/badge/Figma-1F2937?style=flat-square&logo=figma&logoColor=F24E1E)
 
 ---
