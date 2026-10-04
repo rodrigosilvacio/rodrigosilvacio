@@ -55,7 +55,7 @@ Este espaço reúne projetos, protótipos e provas de conceito que demonstram co
 
 ---
 
-## Contato
+## Contatos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rodrigo_Silva-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigosilvacio)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B55_11_94020--7654-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5511940207654)
